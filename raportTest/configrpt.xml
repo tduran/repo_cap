@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Main>
+    <dburl>jdbc:hsqldb:D:\Git\repo2\bazka\baza</dburl>
+	<jaasfile>puste</jaasfile>
+	<REPORT_OUT_FOLDER>C:\raporty\</REPORT_OUT_FOLDER>
+	<CE_PASS>pass</CE_PASS>
+	<CE_USER>user</CE_USER>
+	<WCM_API_CONFIG_FILE_PATH>path</WCM_API_CONFIG_FILE_PATH>
+</Main>
